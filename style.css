@@ -150,7 +150,11 @@ main h1 {
 }
 
 .btn {
-  margin: 20px auto;
+  height: 40px;
+  width: 40px;
+  margin: -30px auto;
+  border: 2px solid rgb(115, 117, 255);
+  border-radius: 4px;
 }
 
 footer {
