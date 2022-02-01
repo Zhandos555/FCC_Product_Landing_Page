@@ -197,3 +197,9 @@ footer p {
   text-decoration: none;
   color: black;
 }
+
+@media screen {
+  body {
+    background-color: rgb(218, 236, 255);
+  }
+}
